@@ -7,10 +7,15 @@
 Это приложение предоставляет простой и удобный RESTful API для управления вашим списком задач (Todos). Воспользуйтесь нашими эндпоинтами для добавления, обновления, удаления и просмотра задач, а также получите список всех задач.
 
 ![img1](Media/project_images/img1.png)
+![img6](Media/project_images/img6.jpg)
 ![img2](Media/project_images/img2.png)
+![img7](Media/project_images/img7.jpg)
 ![img3](Media/project_images/img3.png)
+![img8](Media/project_images/img8.jpg)
 ![img4](Media/project_images/img4.png)
+![img9](Media/project_images/img9.jpg)
 ![img5](Media/project_images/img5.png)
+![img10](Media/project_images/img10.jpg)
 **Пример программы так работает.**
 
 ## Использование API
